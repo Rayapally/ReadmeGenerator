@@ -1,3 +1,4 @@
+
 # 👨‍💻 GitHub Profile README Generator
 ### Video demo: [click here](https://www.youtube.com/watch?v=Io-POzQf4jc)
 
@@ -63,4 +64,6 @@ This project is licensed under the [MIT License](LICENSE).
 This is the final project for CS50 course by Harvard University.
 
 - [Ryan Tusi](https://github.com/ryantusi/) - [Connect with me](https://www.linkedin.com/in/ryantusi/)
-- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [Harvard CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science
+# readme-generator
+
