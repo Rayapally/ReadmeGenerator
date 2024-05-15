@@ -7,8 +7,12 @@
         {
             "name": "Launch Chrome",
             "request": "launch",
+
             "type": "chrome",
             "url": "http://127.0.0.1:5502/src/templates/index.html",
+
+            "name": "Launch Chrome against localhost",
+            "url": "https://github.com/Rayapally/ReadmeGenerator",
             "webRoot": "${workspaceFolder}"
         },
         
